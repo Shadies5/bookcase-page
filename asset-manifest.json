@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookcase-page/static/css/main.0d2da252.css",
+    "main.js": "/bookcase-page/static/js/main.be6ab05d.js",
+    "index.html": "/bookcase-page/index.html",
+    "main.0d2da252.css.map": "/bookcase-page/static/css/main.0d2da252.css.map",
+    "main.be6ab05d.js.map": "/bookcase-page/static/js/main.be6ab05d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d2da252.css",
+    "static/js/main.be6ab05d.js"
+  ]
+}
