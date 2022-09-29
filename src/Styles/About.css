@@ -1,0 +1,23 @@
+.navbar{
+    padding-top: 10%;
+    font-weight:bolder;
+    color:aliceblue;
+    text-transform: uppercase;
+}
+a{
+    font-weight:bolder;
+    color:aliceblue;
+}
+a:hover{
+    color:black;
+}
+.page{
+    background-color: whitesmoke;
+    margin: 50px;
+    height:140px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+}
